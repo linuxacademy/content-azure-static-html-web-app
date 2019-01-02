@@ -1,2 +1,2 @@
 # content-azure-static-html-web-app
-Shawn's Azure Certification Course Labs
+Static HTML website to be installed as an Azure Web App
